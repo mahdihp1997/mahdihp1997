@@ -51,22 +51,32 @@ My main domain is **Health IT**, where I work on **EHR systems, workflow automat
 
 ---
 
-## 🧠 Focus Areas
+## 🧩 What I Build
 
 ```text
-Backend Engineering
-├── Java / Spring ecosystem
-├── REST API design
-├── PostgreSQL & JSONB
-├── Data modeling
-└── System integration
+🏥 Health Systems
+   ├─ Electronic Health Records
+   ├─ Clinical workflow automation
+   └─ Reliable backend services
 
-Health IT
-├── Electronic Health Records
-├── Medical workflow automation
-├── DICOM communication
-└── PACS / medical imaging systems
+🩻 Medical Imaging
+   ├─ DICOM communication
+   ├─ PACS infrastructure
+   └─ Imaging delivery workflows
+
+⚙️ Backend Engineering
+   ├─ Java / Spring services
+   ├─ REST API design
+   ├─ PostgreSQL / JSONB
+   └─ System integration
+
+🚀 Product Delivery
+   ├─ React / Next.js
+   ├─ Docker / Linux
+   └─ Production-minded deployment
 ```
+
+> From clinical workflow to production — I like turning complex healthcare requirements into software that is reliable, maintainable, and useful.
 
 ---
 
