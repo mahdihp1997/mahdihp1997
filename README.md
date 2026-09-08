@@ -44,10 +44,21 @@ My main domain is **Health IT**, where I work on **EHR systems, workflow automat
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [**🩻 PACS Viewer**](https://github.com/mahdihp1997/PACS) | Web-based viewer for browsing and rendering DICOM studies | React · Cornerstone · DICOM · REST |
-| [**⚙️ PACS Server Backend**](https://github.com/mahdihp1997/pacs-server-backend) | Java PACS/DICOM backend with database integration and APIs | Java 17 · dcm4che · PostgreSQL · Javalin |
+<p>
+  <a href="https://github.com/mahdihp1997/PACS">
+    <img src="https://raw.githubusercontent.com/mahdihp1997/mahdihp1997/main/assets/project-pacs-viewer.svg" width="100%" alt="PACS Viewer — React and Cornerstone DICOM viewer" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/mahdihp1997/pacs-server-backend">
+    <img src="https://raw.githubusercontent.com/mahdihp1997/mahdihp1997/main/assets/project-pacs-backend.svg" width="100%" alt="PACS Server Backend — Java DICOM/PACS server" />
+  </a>
+</p>
+
+<div align="center">
+  <sub>Two sides of the same workflow: <b>medical images in</b> → <b>reliable backend</b> → <b>usable viewer out</b>.</sub>
+</div>
 
 ---
 
