@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Mahdi Hosseinpour — Backend Java Developer" />
+  <img src="https://raw.githubusercontent.com/mahdihp1997/mahdihp1997/main/assets/banner-live.svg" width="100%" alt="Mahdi Hosseinpour — Backend Java Developer" />
 </p>
 
 <div align="center">
