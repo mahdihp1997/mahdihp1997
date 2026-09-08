@@ -80,17 +80,6 @@ My main domain is **Health IT**, where I work on **EHR systems, workflow automat
 
 ---
 
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahdihp1997&theme=github_dark" alt="Mahdi's GitHub stats" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahdihp1997&theme=github_dark" alt="Mahdi's top languages" />
-
-</div>
-
----
-
 <div align="center">
 
 ### ☕ Backend Engineering · 🩺 Health IT · 🩻 Medical Imaging
