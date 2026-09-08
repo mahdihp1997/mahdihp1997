@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="270" viewBox="0 0 760 270" role="img" aria-labelledby="title desc">
+  <title id="title">PACS Viewer</title>
+  <desc id="desc">Custom project card for Mahdi Hosseinpour's React and Cornerstone DICOM viewer.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#071827"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1F6FEB"/>
+      <stop offset="0.5" stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#39C5CF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="82%" cy="18%" r="70%">
+      <stop offset="0" stop-color="#1F6FEB" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#1F6FEB" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#58A6FF" stroke-opacity=".045"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="2" y="2" width="756" height="266" rx="24" fill="url(#bg)" stroke="url(#stroke)" stroke-width="2"/>
+  <rect x="2" y="2" width="756" height="266" rx="24" fill="url(#grid)"/>
+  <rect x="2" y="2" width="756" height="266" rx="24" fill="url(#glow)"/>
+
+  <rect x="26" y="24" width="112" height="30" rx="15" fill="#1F6FEB" fill-opacity=".16" stroke="#58A6FF" stroke-opacity=".42"/>
+  <text x="82" y="44" text-anchor="middle" fill="#79C0FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">FEATURED</text>
+
+  <text x="28" y="100" fill="#F0F6FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="800">🩻 PACS Viewer</text>
+  <text x="29" y="132" fill="#8B949E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Web-based DICOM study viewer for medical imaging workflows.</text>
+  <text x="29" y="157" fill="#8B949E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Built around React, Cornerstone and REST-based image delivery.</text>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650">
+    <g transform="translate(28,190)"><rect width="82" height="34" rx="17" fill="#161B22" stroke="#30363D"/><text x="41" y="22" text-anchor="middle" fill="#C9D1D9">React</text></g>
+    <g transform="translate(120,190)"><rect width="116" height="34" rx="17" fill="#161B22" stroke="#30363D"/><text x="58" y="22" text-anchor="middle" fill="#C9D1D9">Cornerstone</text></g>
+    <g transform="translate(246,190)"><rect width="84" height="34" rx="17" fill="#161B22" stroke="#30363D"/><text x="42" y="22" text-anchor="middle" fill="#C9D1D9">DICOM</text></g>
+    <g transform="translate(340,190)"><rect width="90" height="34" rx="17" fill="#161B22" stroke="#30363D"/><text x="45" y="22" text-anchor="middle" fill="#C9D1D9">REST API</text></g>
+  </g>
+
+  <g transform="translate(585,74)">
+    <circle cx="72" cy="62" r="52" fill="#0A1522" stroke="#58A6FF" stroke-opacity=".45"/>
+    <circle cx="72" cy="62" r="38" fill="none" stroke="#58A6FF" stroke-width="2" stroke-opacity=".65">
+      <animate attributeName="r" values="34;42;34" dur="3.2s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values=".25;.8;.25" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M51 44C58 32 83 31 93 43C101 52 98 73 87 80C76 88 57 83 51 72C47 65 47 51 51 44Z" fill="none" stroke="#79C0FF" stroke-width="3" filter="url(#softGlow)"/>
+    <path d="M58 51C65 45 78 45 85 51M58 62C66 57 78 57 86 62M60 72C67 68 77 68 84 72" fill="none" stroke="#58A6FF" stroke-width="2" stroke-opacity=".8"/>
+  </g>
+
+  <text x="596" y="228" fill="#58A6FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="1.2">OPEN REPOSITORY →</text>
+
+  <rect x="0" y="0" width="95" height="3" rx="2" fill="#58A6FF">
+    <animate attributeName="x" values="20;645;20" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".2;.95;.2" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
