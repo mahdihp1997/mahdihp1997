@@ -74,8 +74,8 @@ Health IT
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mahdihp1997&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" alt="Mahdi's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdihp1997&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Mahdi's top languages" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahdihp1997&theme=github_dark" alt="Mahdi's GitHub stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahdihp1997&theme=github_dark" alt="Mahdi's top languages" />
 
 </div>
 
