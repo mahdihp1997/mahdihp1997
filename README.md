@@ -45,13 +45,13 @@ My main domain is **Health IT**, where I work on **EHR systems, workflow automat
 ## 🚀 Featured Projects
 
 <p>
-  <a href="https://github.com/mahdihp1997/PACS">
+  <a href="https://github.com/mahdihp1997/mahdihp1997/blob/main/projects/pacs-viewer.md">
     <img src="https://raw.githubusercontent.com/mahdihp1997/mahdihp1997/main/assets/project-pacs-viewer.svg" width="100%" alt="PACS Viewer — React and Cornerstone DICOM viewer" />
   </a>
 </p>
 
 <p>
-  <a href="https://github.com/mahdihp1997/pacs-server-backend">
+  <a href="https://github.com/mahdihp1997/mahdihp1997/blob/main/projects/pacs-backend.md">
     <img src="https://raw.githubusercontent.com/mahdihp1997/mahdihp1997/main/assets/project-pacs-backend.svg" width="100%" alt="PACS Server Backend — Java DICOM/PACS server" />
   </a>
 </p>
